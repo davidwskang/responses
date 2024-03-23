@@ -1,0 +1,93 @@
+[
+    {
+        "eId": 0,
+        "name": "Pistol Squat",
+        "musclesWorked": [
+            "legs"
+        ]
+    },
+    {
+        "eId": 1,
+        "name": "Bench Press",
+        "musclesWorked": [
+            "chest"
+        ]
+    },
+    {
+        "eId": 2,
+        "name": "Push Up",
+        "musclesWorked": [
+            "chest"
+        ]
+    },
+    {
+        "eId": 3,
+        "name": "Chest Dip",
+        "musclesWorked": [
+            "chest"
+        ]
+    },
+    {
+        "eId": 4,
+        "name": "Shoulder Press",
+        "musclesWorked": [
+            "shoulder"
+        ]
+    },
+    {
+        "eId": 5,
+        "name": "Lateral Raise",
+        "musclesWorked": [
+            "shoulder"
+        ]
+    },
+    {
+        "eId": 7,
+        "name": "Wrist Curl",
+        "musclesWorked": [
+            "arm"
+        ]
+    },
+    {
+        "eId": 8,
+        "name": "Preacher Curl",
+        "musclesWorked": [
+            "arm"
+        ]
+    },
+    {
+        "eId": 9,
+        "name": "Hammer Curl",
+        "musclesWorked": [
+            "arm"
+        ]
+    },
+    {
+        "eId": 10,
+        "name": "Triceps Extension",
+        "musclesWorked": [
+            "arm"
+        ]
+    },
+    {
+        "eId": 11,
+        "name": "Bent Over Row",
+        "musclesWorked": [
+            "back"
+        ]
+    },
+    {
+        "eId": 12,
+        "name": "Bulgarian Split Squat",
+        "musclesWorked": [
+            "legs"
+        ]
+    },
+    {
+        "eId": 13,
+        "name": "Calf Raise",
+        "musclesWorked": [
+            "legs"
+        ]
+    }
+]
